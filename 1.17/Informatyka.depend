@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540382329 source:c:\users\informatyk\desktop\informatyka\main.cpp
+	<iostream>
+	<windows.h>
+
+1540981399 source:c:\users\egzamin\desktop\zadanie dom if\informatyka\main.cpp
+	<iostream>
+	<cmath>
+
