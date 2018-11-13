@@ -23,7 +23,9 @@ else
 		cout << sqrt(3*x);
 	}
 	if (x<-5 || x>10){
-		cout << -8*x;
+		
 	}
+	else {
+	cout << -8*x; }
 }
 }
