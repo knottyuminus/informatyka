@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-float ostatniawczytana = 1, suma, counter = 0, wynik;
+float ostatniawczytana = 1, suma, counter, wynik;
 
 void randomowafunkcja()
     {
